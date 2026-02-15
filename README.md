@@ -48,6 +48,10 @@ The SQL script (`library.sql`) creates the following tables:
 The script also includes relationships, foreign keys, and constraints to ensure data integrity.
 
 ---
+## Project Preview
+
+
+![Library Management Dashboard]
 
 ## How to Run
 
