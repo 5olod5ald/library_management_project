@@ -51,7 +51,7 @@ The script also includes relationships, foreign keys, and constraints to ensure 
 ## Project Preview
 
 
-![Library Management Dashboard]
+![Library Management Dashboard].(https://github.com/5olod5ald/library_management_project/blob/272b362f31b6fc32c5f37b74a265b4bb2d60dd0c/library_web.jpeg)
 
 ## How to Run
 
